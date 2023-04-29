@@ -164,15 +164,15 @@ BtnStroke.Name = "BtnStroke"
 		if Load then
 			Load:Destroy()
       if game.PlaceId == 3101667897 then
-    loadstring(Game:HttpGet"https://raw.githubusercontent.com/ScuritySkull/Turbo-Hub/main/LegendsOfSpeed")()
-   elseif game.PlaceId == 2753915549 or game.PlaceId == 4442272183 or game.PlaceId == 7449423635 then
-    loadstring(Game:HttpGet"https://raw.githubusercontent.com/ScuritySkull/Turbo-Hub/main/BloxFruits")()
+    loadstring(Game:HttpGet"https://raw.githubusercontent.com/lllIlIllIII/llIlilIIIli/main/Turbo-Hub-main/Turbo-Hub-main/LegendsOfSpeed")()
+   elseif game.PlaceId == 2753915549 or game.PlaceId == 4442272183 ohttpsr game.PlaceId == 7449423635 then
+    loadstring(Game:HttpGet"https://raw.githubusercontent.com/lllIlIllIII/llIlilIIIli/main/Turbo-Hub-main/Turbo-Hub-main/BloxFruits")()
    elseif game.PlaceId == 3956818381 then
-    loadstring(Game:HttpGet"https://raw.githubusercontent.com/ScuritySkull/Turbo-Hub/main/NinjaLegends")()
+    loadstring(Game:HttpGet"https://raw.githubusercontent.com/lllIlIllIII/llIlilIIIli/main/Turbo-Hub-main/Turbo-Hub-main/NinjaLegends")()
    elseif game.PlaceId == 3623096087 then
-    loadstring(Game:HttpGet"https://raw.githubusercontent.com/ScuritySkull/Turbo-Hub/main/MuscleLegends")()
+    loadstring(Game:HttpGet"https://raw.githubusercontent.com/lllIlIllIII/llIlilIIIli/main/Turbo-Hub-main/Turbo-Hub-main/MuscleLegends")()
    elseif game.PlaceId == 9285238704 then
-    loadstring(Game:HttpGet"https://raw.githubusercontent.com/ScuritySkull/Turbo-Hub/main/RaceClicker")()
+    loadstring(Game:HttpGet"https://raw.githubusercontent.com/lllIlIllIII/llIlilIIIli/main/Turbo-Hub-main/Turbo-Hub-main/RaceClicker")()
    
  end
 		end
